@@ -1,0 +1,3 @@
+rootProject.name = 'Tal'
+
+include ':app'
